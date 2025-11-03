@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # paket4_simon
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Aplikasi-Berita
+>>>>>>> e098f94fdaf57938b5d67bd260c6b0474f8c4fc6
